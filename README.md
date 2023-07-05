@@ -4,5 +4,5 @@ ___
 Aqui estão alguns destaques do meu portfólio de projetos em SQL:
 * Neste projeto, foram consolidadas informações financeiras para as 10 principais criptomoedas por valor de mercado. Através desses dados alguns insights puderam ser obtidos. [Link](https://github.com/guilasinskas/sqlportfolio/blob/main/codes/cripto.sql)
 * Neste projeto, você é o dono do supermercado e quer entender os clientes-alvo para que o senso possa ser dado à equipe de marketing e planejar a estratégia de acordo. [Link](https://github.com/guilasinskas/sqlportfolio/blob/main/codes/supermarket.sql)
-* Realizar uma análise detalhada dos dados de vendas disponíveis e gerar insights valiosos para impulsionar o negócio. [Link](https://github.com/guilasinskas/sqlportfolio/blob/main/codes/sales.sql)
+* Realização de uma análise com dados de vendas disponíveis. [Link](https://github.com/guilasinskas/sqlportfolio/blob/main/codes/sales.sql)
 
