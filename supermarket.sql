@@ -1,3 +1,5 @@
+-- https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
+
 /* Você está possui um supermercado e por meio de cartões de sócio, você tem alguns dados básicos sobre seus clientes,
 como ID do cliente, idade, sexo, receita anual e pontuação de gastos. Você é o dono do supermercado e quer entender
 os clientes-alvo para que o senso possa ser dado à equipe de marketing e planejar a estratégia de acordo. */ 
